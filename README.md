@@ -5,10 +5,9 @@
 
 ---
 
+<!-- Banner Superior GIF -->
 <p align="center">
-<pre>
-https://tenor.com/es-US/view/hacker-ascii-ascii-art-saas-security-cyber-security-gif-26180805⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-</pre>
+  <img src="https://c.tenor.com/r-97D5uxf9kAAAAd/tenor.gif" alt="Hacker ASCII Art GIF" />
 </p>
 
 <h1 align="center">⚡ CRISTIAN TRUJILLO ⚡</h1>
