@@ -47,12 +47,11 @@
 
 ---
 
-### 🏆 Achievements & Activity
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CristianT71&theme=darkhub&margin-w=10&no-frame=true&row=1" alt="trophies" />
+  <img src="https://img.shields.io/github/followers/CristianT71?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/CristianT71?label=Stars&style=social" />
+  <img src="https://img.shields.io/github/contributors/CristianT71" />
 </p>
-
 ---
 
 ### 🐍 Contribution Snake
