@@ -37,9 +37,18 @@
 ### ⚙️ GitHub Power Stats
 
 <p align="center">
-  <img src="github-readme-stats-eight-theta.vercel.app" height="180px" />
-  <img src="github-readme-stats-eight-theta.vercel.app" height="180px" />
+  <!-- Tarjeta de Estadísticas Generales -->
+  <img src="github-readme-stats-eight-theta.vercel.app" height="180px" alt="GitHub Stats" />
+  
+  <!-- Tarjeta de Lenguajes Más Usados -->
+  <img src="github-readme-stats-eight-theta.vercel.app" height="180px" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <!-- Tarjeta de Racha (Streak) -->
+  <img src="github-readme-streak-stats.herokuapp.com" height="180px" alt="GitHub Streak" />
+</p>
+
 
 
 <p align="center">
