@@ -37,9 +37,10 @@
 ### ⚙️ GitHub Power Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CristianT71&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianT71&layout=compact&theme=tokyonight&hide_border=true" height="180px" />
+  <img src="github-readme-stats-eight-theta.vercel.app" height="180px" />
+  <img src="github-readme-stats-eight-theta.vercel.app" height="180px" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=CristianT71&theme=tokyonight&hide_border=true" height="180px" />
