@@ -29,7 +29,7 @@
 ### 🧠 Tech Universe
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,html,css,javascript,dart,flutter,mysql,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=python,php,html,css,dart,flutter,mysql,git,github,vscode" />
 </p>
 
 ---
