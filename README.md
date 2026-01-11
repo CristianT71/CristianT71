@@ -33,14 +33,6 @@
 </p>
 
 ---
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=CristianT71&theme=tokyonight&hide_border=true" height="180px" />
-</p>
-
----
-
 <p align="center">
   <img src="https://img.shields.io/github/followers/CristianT71?label=Followers&style=social" />
   <img src="https://img.shields.io/github/stars/CristianT71?label=Stars&style=social" />
@@ -70,4 +62,3 @@
   <i>💬 “Building software is like composing music: each line of code is a note in the melody of innovation.”</i><br>
   <sub>Last updated: November 2025 | Designed with ❤️ by Cristian Trujillo</sub>
 </p>
-
