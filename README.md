@@ -34,22 +34,6 @@
 
 ---
 
-### ⚙️ GitHub Power Stats
-
-<p align="center">
-  <!-- Tarjeta de Estadísticas Generales -->
-  <img src="github-readme-stats-eight-theta.vercel.app" height="180px" alt="GitHub Stats" />
-  
-  <!-- Tarjeta de Lenguajes Más Usados -->
-  <img src="github-readme-stats-eight-theta.vercel.app" height="180px" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <!-- Tarjeta de Racha (Streak) -->
-  <img src="github-readme-streak-stats.herokuapp.com" height="180px" alt="GitHub Streak" />
-</p>
-
-
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=CristianT71&theme=tokyonight&hide_border=true" height="180px" />
@@ -86,3 +70,4 @@
   <i>💬 “Building software is like composing music: each line of code is a note in the melody of innovation.”</i><br>
   <sub>Last updated: November 2025 | Designed with ❤️ by Cristian Trujillo</sub>
 </p>
+
