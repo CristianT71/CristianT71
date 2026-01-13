@@ -40,7 +40,7 @@
 </p>
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Contribution Snakee
 <p align="center">
   <img src="https://github.com/Platane/Platane/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
