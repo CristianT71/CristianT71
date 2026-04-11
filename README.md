@@ -67,12 +67,12 @@ status:     Building, learning, growing every day 🚀
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CristianT71&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianT71&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CristianT71&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CristianT71&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=CristianT71&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-sigma.vercel.app?user=CristianT71&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -81,9 +81,12 @@ status:     Building, learning, growing every day 🚀
 
 <div align="center">
 
-[![StorePrim](https://github-readme-stats.vercel.app/api/pin/?username=CristianT71&repo=StorePrim&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/CristianT71/StorePrim)
-[![PrimeStore](https://github-readme-stats.vercel.app/api/pin/?username=CristianT71&repo=PrimeStore&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/CristianT71/PrimeStore)
-[![ADSO5853](https://github-readme-stats.vercel.app/api/pin/?username=CristianT71&repo=ADSO5853&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/CristianT71/ADSO5853)
+| Proyecto | Descripción | Tecnología |
+|:---|:---|:---:|
+| [**StorePrim**](https://github.com/CristianT71/StorePrim) | Tienda web — proyecto personal | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| [**PrimeStore**](https://github.com/CristianT71/PrimeStore) | Tienda web mejorada | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| [**ADSO5853**](https://github.com/CristianT71/ADSO5853) | Trabajos de clase — programación en software | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
+| [**APRENDIENDO-PHP**](https://github.com/CristianT71/APRENDIENDO-PHP) | Ejercicios y clases de PHP en el SENA | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
 
 </div>
 
@@ -92,15 +95,7 @@ status:     Building, learning, growing every day 🚀
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CristianT71&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B35&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CristianT71/CristianT71/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CristianT71/CristianT71/output/github-contribution-grid-snake.svg"/>
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/CristianT71/CristianT71/output/github-contribution-grid-snake.svg"/>
-  </picture>
+  <img src="https://ghchart.rshah.org/58A6FF/CristianT71" alt="Contribution Chart" />
 </div>
 
 ---
