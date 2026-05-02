@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+NestJS+%2B+PHP+%2B+Docker;17+y%2Fo+%7C+ADSO+Student+%40+SENA;Building+real+things%2C+learning+every+day;%22The+code+is+creativity+shaped+by+syntax.%22" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+NestJS+%2B+PHP+%2B+Docker;18+y%2Fo+%7C+ADSO+Student+%40+SENA;Building+real+things%2C+learning+every+day;%22The+code+is+creativity+shaped+by+syntax.%22" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -21,7 +21,7 @@
 ```ts
 const cristian = {
   name:     "Cristian Danilo Trujillo",
-  age:      17,
+  age:      18,
   location: "Pitalito, Huila — Colombia 🇨🇴",
   studying: "ADSO @ SENA",
   role:     "Backend Developer",
