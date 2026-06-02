@@ -20,10 +20,10 @@
 
 ```ts
 const cristian = {
-  name:     "Cristian Danilo Trujillo",
+  name:     "Cristian Danilo Trujillo Murcia",
   age:      18,
-  location: "Pitalito, Huila — Colombia 🇨🇴",
-  studying: "ADSO @ SENA",
+  location: "Pitalito, Huila — Colombia",
+  studying: "ADSO - SENA",
   role:     "Backend Developer",
   stack:    ["NestJS", "PHP", "MySQL", "Docker", "HTML/CSS", "Python"],
   goal:     "Land my first job as a Software Developer",
@@ -119,5 +119,5 @@ const cristian = {
 
 <div align="center">
   <sub><i>"The code is not just logic — it's creativity shaped by syntax."</i></sub><br/>
-  <sub>Cristian Trujillo &nbsp;·&nbsp; Pitalito, Colombia 🇨🇴 &nbsp;·&nbsp; 2025</sub>
+  <sub>Cristian Trujillo &nbsp;·&nbsp; Pitalito, Colombia &nbsp;·&nbsp; 2025</sub>
 </div>
