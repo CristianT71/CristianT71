@@ -1,0 +1,47 @@
+name: Check README Links
+
+# Revisa que los enlaces del README no estén rotos (proyectos, redes, badges).
+on:
+  # Cada lunes a las 08:00 UTC (3:00 AM Colombia)
+  schedule:
+    - cron: "0 8 * * 1"
+  # Ejecución manual desde la pestaña Actions
+  workflow_dispatch:
+  # Y cuando se modifique el README
+  push:
+    paths:
+      - "README.md"
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  linkcheck:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Link Checker
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --verbose
+            --no-progress
+            --max-retries 3
+            --accept 200,206,429
+            README.md
+          fail: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Create issue on broken links
+        if: env.lychee_exit_code != 0
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: "🔗 Enlaces rotos en el README"
+          content-filepath: ./lychee/out.md
+          labels: report, automated
