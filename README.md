@@ -76,15 +76,73 @@ const cristian = {
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Featured Projects
 
-<div align="center">
-
-| Project | What it is | Stack | Links |
-|:--------|:-----------|:-----:|:-----:|
-| **🔌 NexusLED** | IoT app to control RGB LEDs via MQTT — Flutter frontend, Supabase backend, ESP32 firmware | `Flutter` · `Dart` · `Supabase` · `MQTT` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CristianT71/nexusled) [![Live](https://img.shields.io/badge/Live-00D4FF?style=flat-square&logo=netlify&logoColor=white)](https://nexusled.netlify.app) |
-| **🌱 Agrosoft Backend** | REST API for AgroSoft, an agro-management platform built for SENA | `NestJS` · `TypeScript` · `PostgreSQL` · `Docker` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CristianT71/Agrosoft_Backend) |
-| **🛒 Vezzi** | Web platform for small local stores — inventory, sales, clients and payments | `NestJS` · `TypeScript` · `PostgreSQL` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CristianT71/Vezzi) |
-
-</div>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔌 &nbsp;NexusLED</h3>
+      <p align="center">
+        <a href="https://github.com/CristianT71/nexusled"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+        <a href="https://nexusled.netlify.app"><img src="https://img.shields.io/badge/Live_Demo-00D4FF?style=for-the-badge&logo=netlify&logoColor=0D1117"/></a>
+      </p>
+      <p align="center">
+        IoT app to control RGB LEDs via MQTT.<br/>
+        Flutter frontend · Supabase backend · ESP32 firmware.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌱 &nbsp;Agrosoft Backend</h3>
+      <p align="center">
+        <a href="https://github.com/CristianT71/Agrosoft_Backend"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+      </p>
+      <p align="center">
+        REST API for AgroSoft, an agro-management<br/>
+        platform built for SENA.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛒 &nbsp;Vezzi</h3>
+      <p align="center">
+        <a href="https://github.com/CristianT71/Vezzi"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+      </p>
+      <p align="center">
+        Web platform for small local stores —<br/>
+        inventory, sales, clients and payments.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">✨ &nbsp;More coming</h3>
+      <p align="center">
+        <a href="https://github.com/CristianT71?tab=repositories"><img src="https://img.shields.io/badge/All_Repos-0D1117?style=for-the-badge&logo=github&logoColor=00D4FF"/></a>
+      </p>
+      <p align="center">
+        Always building something new.<br/>
+        <i>Learning by shipping.</i>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Open_to-collab-00D4FF?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                        GITHUB STATS                          -->
@@ -103,10 +161,6 @@ const cristian = {
 <br/><br/>
 
 <img src="https://github-readme-streak-stats-sigma.vercel.app?user=CristianT71&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF&sideLabels=8B949E&dates=8B949E"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=CristianT71&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/>
 
 </div>
 
