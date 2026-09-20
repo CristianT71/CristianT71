@@ -29,7 +29,7 @@
 const cristian = {
   name    : "Cristian Danilo Trujillo Murcia",
   role    : "ADSO Apprentice @ SENA — Pitalito, Colombia",
-  building: ["NexusLED", "Agrosoft Backend", "Vezzi"],
+  building: ["Agrovision", "NexusLED", "Agrosoft", "Vezzi"],
   learning: ["NestJS", "TypeScript", "Flutter / Dart", "Docker"],
   solid   : ["HTML/CSS", "PHP", "PostgreSQL", "Git & GitHub"],
   goal    : "Become a reliable software developer — one real project at a time.",
